@@ -30,22 +30,38 @@ Farming is one of the major sectors that influences a country’s economic growt
 ## DATA SOURCE
 The accuracy of the machine learning models depends on the quality and diversity of the data used for training. The Modern Farming system collects data from the following datasets taken from Kaggle
 - [Crop recommendation dataset ](https://www.kaggle.com/atharvaingle/crop-recommendation-dataset) 
-- [Fertilizer suggestion dataset](https://github.com/Gladiator07/Harvestify/blob/master/Data-processed/fertilizer.csv) 
+- [Fertilizer suggestion dataset](https://github.com/Gladiator07/Harvestify/blob/master/Data-processed/fertilizer.csv) (customized)
 - [Disease detection dataset](https://www.kaggle.com/vipoooool/new-plant-diseases-dataset)
+
+## ADVANTAGES 
+Modern Farming using Machine Learning offers numerous advantages that can significantly impact agriculture and farming practices. Some of the key advantages are listed below:
+
+ **1. Increased Crop Yield**: By leveraging historical data, weather patterns, and soil characteristics, the machine learning models can predict the best crops to grow in a specific location and season.
+ 
+ **2. Optimal Resource Utilization**: The system recommends the appropriate types and quantities of fertilizers based on soil nutrient analysis and crop selection. This ensures that resources like fertilizers are used efficiently, minimizing waste and environmental impact.
+ 
+**3. Data-Driven Decision Making**: The project relies on data analysis and machine learning models, enabling farmers to make informed decisions. This reduces uncertainty and reliance on traditional methods, leading to more efficient and effective farming practices.
+
+**4. Cost Reduction**: Improved crop yield, and reduced resource usage. This allows for better financial management and increased profitability in farming.
+
+**5. Timely Disease Detection**: Early detection of diseases and pests is crucial for preventing large-scale crop damage. The disease detection model, trained on images of healthy and diseased crops, can identify potential issues early, enabling timely intervention and reducing losses.
+
+**6. Continuous Improvement**: The machine learning models used in the project can be continuously updated and improved with more data. As more information becomes available, the models' accuracy and performance can increase, leading to even better results over time.
 
 
 ## TECH STACK
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://github.com/tomchen/stack-icons/raw/master/logos/bootstrap.svg"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="35" src="https://github.com/tomchen/stack-icons/raw/master/logos/bootstrap.svg"></code>
 
 <code><img height="30" src="https://raw.githubusercontent.com/numpy/numpy/7e7f4adab814b223f7f917369a72757cd28b10cb/branding/icons/numpylogo.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/pandas-dev/pandas/761bceb77d44aa63b71dda43ca46e8fd4b9d7422/web/pandas/static/img/pandas.svg"></code>
 <code><img height="30" src="https://matplotlib.org/_static/logo2.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/pytorch/pytorch/39fa0b5d0a3b966a50dcd90b26e6c36942705d6d/docs/source/_static/img/pytorch-logo-dark.svg"></code>
+<code><img height="34" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png"></code>
+
 
 ## Installation
 
@@ -77,6 +93,8 @@ Contributions to this project are welcome! If you would like to contribute, plea
 
 
 
-##  License
-The Modern Farming using Machine Learning project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute the code according to the terms of this license.
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+The Modern Farming using Machine Learning project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and better the code according to the terms of this license.
 #### Happy Farming!
