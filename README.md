@@ -1,5 +1,5 @@
 # Modern Farming Using Machine Learning🌳
-Farming is one of the major sectors that influences a country’s economic growth. Farming is the backbone of our nation 💪. This Project is a Modern way of Farming that helps Farmers to increase their yield by taking NPK(Nitrogen, Phosphorus, and Potassium) values of soil and predicting Crop recommendation, Fertilizer recommendation, and Plant disease prediction respectively. 
+Farming is one of the major sectors that influences a country’s economic growth. Farming is the backbone of our nation💪. This Project helps Farmers to increase their yield by taking NPK(Nitrogen, Phosphorus, and Potassium) values of soil and predicting Crop recommendation, Fertilizer recommendation, and Plant disease prediction respectively. 
 
 - ### Crop recommendation system
   ![demo](https://media.giphy.com/media/90JbjdAa5nDq3TJh5u/giphy.gif)
