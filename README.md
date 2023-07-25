@@ -84,9 +84,10 @@ python app.py
   
 ## Contribution Guidelines
 Contributions to this project are welcome! If you would like to contribute, please follow these guidelines:
-- Fork the repository and create a new branch for your feature or bug fix.
-- Implement your changes and ensure the code is properly formatted.
-- Submit a pull request, describing your changes and their significance.
+- Fork the [repository](https://github.com/arunperala/Modern-Farming-using-MachineLearning) and create a new branch for your feature or bug fix.
+- Implement your changes and format the code properly.
+- Ensure the changes are well-described.
+- Submit a pull request, highlighting the significance of your modifications.
 
 
 
