@@ -25,12 +25,6 @@ Farming is one of the major sectors that influences a country’s economic growt
     
     The last application, which is the plant disease prediction application, the user can input an image of a diseased plant leaf, and the application will predict what disease it is and will also give a little background about the disease and suggestions to cure it.
 
-## DATA SOURCE
-The accuracy of the machine learning models depends on the quality and diversity of the data used for training. The Modern Farming system collects data from the following datasets taken from Kaggle
-- [Crop recommendation dataset ](https://www.kaggle.com/atharvaingle/crop-recommendation-dataset) 
-- [Fertilizer suggestion dataset](https://github.com/Gladiator07/Harvestify/blob/master/Data-processed/fertilizer.csv) (customized)
-- [Disease detection dataset](https://www.kaggle.com/vipoooool/new-plant-diseases-dataset)
-
 ## ADVANTAGES 
 Modern Farming using Machine Learning offers numerous advantages that can significantly impact agriculture and farming practices. Some of the key advantages are listed below:
 
