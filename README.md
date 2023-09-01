@@ -10,19 +10,22 @@ Farming is one of the major sectors that influences a country’s economic growt
 ## DEMO
 
 - ### Crop recommendation system
-  ![demo](https://media.giphy.com/media/90JbjdAa5nDq3TJh5u/giphy.gif)
-
+ <p align="center">
+  <img src="https://media.giphy.com/media/90JbjdAa5nDq3TJh5u/giphy.gif" alt="demo" width="550" height="300">
+ </p>
      In the crop recommendation system, the user can provide the soil data from their side and the application will predict which crop should the user grow.
     
 - ### Fertilizer suggestion system
-   ![demo](https://media.giphy.com/media/FLftUXMFo8N2bBjAXq/giphy.gif)
-
+  <p align="center">
+  <img src="https://media.giphy.com/media/FLftUXMFo8N2bBjAXq/giphy.gif" alt="demo" width="550" height="300">
+  </p>
      In the fertilizer suggestion system, the user can input the soil data and the type of crop they are growing, and the application will predict what the soil lacks or has an excess of and will recommend improvements. 
 
 
 - ### Disease Detection system
-  ![demo](https://media.giphy.com/media/NnMwEp2tGZdfnJbyjr/giphy.gif)
-    
+  <p align="center">
+  <img src="https://media.giphy.com/media/90JbjdAa5nDq3TJh5u/giphy.gif" alt="demo" width="550" height="300">
+  </p>
     The last application, which is the plant disease prediction application, the user can input an image of a diseased plant leaf, and the application will predict what disease it is and will also give a little background about the disease and suggestions to cure it.
 
 ## ADVANTAGES 
